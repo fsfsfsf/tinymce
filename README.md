@@ -15,7 +15,7 @@ TinyMCE extension for laravel-admin
 
 然后
 
-```php artisan vendor:publish --tag=laravel-admin-tinymce```
+```php artisan vendor:publish --provider=Encore\TinyMCE\TinyMCEServiceProvider```
 
 ## 配置
 
